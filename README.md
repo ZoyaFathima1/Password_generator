@@ -1,0 +1,1 @@
+This repo has a simple Python Program to generate password to protect our web accounts
